@@ -27,9 +27,9 @@
 <img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="50" width="50" src="https://i.imgur.com/Rc554XX.png" />
+<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
 <img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-<img align="left" alt="Tailwind" title="Tailwind" height="50" width="50" src="https://i.imgur.com/Ds5CeCg.png" />
+<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
 <!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" /> -->
 
 
