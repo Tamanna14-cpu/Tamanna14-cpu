@@ -1,9 +1,10 @@
-<!-- <img width="100%" alt="header" src="https://i.imgur.com/5wANBmv.jpg"/>
-<p>The Creation of Adam by Michelangelo. Date: 1508 - 1512</p> -->
 
+# Hi, I'm Tamanna Akter
+### A Passionate Web Developer
 
-# Hello World !!! I'm Bithy
-### Web Developer
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=01%2B+years+of+coding+experience;Always+exploring+new+things;Full+stack+web+developer+"></a>
+</p>
 
 - 📫 My Email: tamannabithy14@gmail.com
 <!-- - 🌐 Portfolio: <a href="https://taibislamdipu.netlify.app/" target="_blank">taibislamdipu.netlify.app</a> -->
