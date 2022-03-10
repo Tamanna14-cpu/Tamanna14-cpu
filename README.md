@@ -9,7 +9,7 @@
 
 
 ### 🤝 Connect with me
-- 🌐 <b>Portfolio:</b> <a href="https://tamannabithy.netlify.app" target="_blank" title="Portfolio">tamannabithy.netlify.app</a>
+- 🌐 <b>Portfolio:</b> <a href="https://tamanna-portfolio.vercel.app/" target="_blank" title="Portfolio">tamannabithy.netlify.app</a>
 - 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/tamanna-akter/" target="_blank" title="LinkedIn">www.linkedin.com/in/tamanna-akter</a>
 - 📫 <b>Email:</b> tamannabithy14@gmail.com
 
